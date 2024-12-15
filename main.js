@@ -81,22 +81,38 @@
 //wednesday - 9:00am
 // thursday - 10:00am
 // friday - 8:00 am
-let day = "sunday";
-switch(day){
-  case "monday" :
-    console.log("7am");
-    break
-    case "tuesday":
-      console.log("5am");
-      case "wednesday":
-        console.log("6am");
-        case "thursday":
-          console.log("10 am")
-          case "friday" :
-            console.log("9am")
-            case "saturday" :
-              console.log("11am")
-              case "sunday":
-                console.log("4am")
-          };
-          console.log("Thank you")
+//let day = "sunday";
+//switch(day){
+  //case "monday" :
+    //console.log("7am");
+    //break
+    //case "tuesday":
+      //console.log("5am");
+      //case "wednesday":
+        //console.log("6am");
+        //case "thursday":
+          //console.log("10 am")
+          //case "friday" :
+            //console.log("9am")
+            //case "saturday" :
+              //console.log("11am")
+              //case "sunday":
+                //console.log("4am")
+          //};
+          //console.log("Thank you")
+          
+
+
+          // FUNCTOIN 
+          function sayhello(){
+             console.log("hi")
+          }
+          sayhello();
+          function timo(){
+            console.log("welcome home, we love you")
+          }
+          timo();
+          let jet = function(){
+            console.log("i love jet")
+          }
+          jet();
