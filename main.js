@@ -104,15 +104,43 @@
 
 
           // FUNCTOIN 
-          function sayhello(){
-             console.log("hi")
-          }
-          sayhello();
-          function timo(){
-            console.log("welcome home, we love you")
-          }
-          timo();
-          let jet = function(){
-            console.log("i love jet")
-          }
-          jet();
+       //   function sayhello(){
+          //   console.log("hi")
+         // }
+        //  sayhello();
+        //  function timo(){
+        //    console.log("welcome home, we love you")
+         // }
+         // timo();
+        //  let jet = function(){
+        //    console.log("i love jet")
+        //  }
+       //   jet();
+       
+    //function sing(){
+      //console.log("do mi re do")
+      //console.log("re re mi do")
+      //console.log("do mi re re")
+    //}
+    //sing()
+    //function sing2(){
+      //console.log("la do re mi do")
+    //}
+    //sing2()
+    // function with argument
+    //function sing(song){
+      //console.log(song)
+    //}
+    ////sing("do mi re re")
+    //sing("do do re mi")
+    //sing ("re mi do re")
+    //function multiply(a,b){
+      //return a*b;
+
+    //}
+  //alert ( multiply(5,20) );
+  //
+
+  //data structure:Array
+  let list = ["cat","dog" ,"lion","bear" ];
+   console.log(list[3]);
