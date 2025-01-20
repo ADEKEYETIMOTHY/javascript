@@ -142,5 +142,179 @@
   //
 
   //data structure:Array
-  let list = ["cat","dog" ,"lion","bear" ];
-   console.log(list[3]);
+  //let list = ["cat","dog" ,"lion","bear" ];
+   //console.log(list[3]);
+   //console.log(list[0]);
+  // console.log(list[1]);
+//console.log(list[2]);
+
+// 14/01/20255
+//let dayofTheWeek = 2;
+//if ( dayofTheWeek == 1) {
+//console.log("sunday");
+  
+//}else if (dayofTheWeek == 2){
+  //console.log("monday");
+//}else{
+  //console.log("other day")
+//};
+
+//write an if statement
+//let userName = "ADEKEYE";
+//let passWorld = "olarewaju";
+//if (userName == "ADEKEYE" && passWorld == "olarewaju") {
+  //console.log("successful log in")
+  
+//}else{
+  //console.log("wrong");
+
+//}
+//let dayofTheWeek = 5;
+//switch (dayofTheWeek) {
+  //case 1 :
+    //console.log("sunday");
+    //break
+  //case 2 :
+    //console.log("mon");
+    //break
+  //case 3 :
+    //console.log("tues");
+    //break
+  //case 4 :
+    //console.log("wed");
+    //break
+  //case 5 :
+    //console.log("thurs");
+
+
+    //let grade = 50 ;
+    //switch (grade){
+      //case 100 :
+        //console.log("A")
+        //break
+        //case 90:
+          //console.log("B")
+          //break
+          //case 80:
+            //console.log("C")
+            //break
+            //case 70:
+            //  console.log("D")
+          //    break
+        //      default:
+      //          console.log("pass")
+
+    //}
+
+    //let result = 100;
+    //const message = result == 100? "perfect score" : "try again";
+//console.log(message);
+    
+  
+//let vote = 30
+//const message = vote >=
+//18 ? "you are eliguble to vote" : "you are not eliguble";
+//console.log(message);
+    
+//15//01/2025
+
+//let me = 20
+
+//if (m == 20) {
+//  console.log("membership is Gold")
+  
+//}else if (m =15){
+  //console.log("membership is silver")
+//}else{
+  //console.log("discount other")
+//}
+
+
+
+// FUNCTION
+//function hello () {
+  //console.log("how are you doing ")
+//}
+//hello();
+
+//function add(num1, num2){ 
+  //console.log( num1 + num2)
+  
+//}
+//add(3, 3);
+// assignment
+// write a function that takes three numbers and returns the largest (if else statement is important here)
+
+//function name (a,b,c)
+//if (condition) {
+  
+//}else{
+
+//}
+//name (20,30,40)
+
+
+
+
+
+//let age = 19;
+//if (age >=18) {
+  //  console.log("you are old engouh to driver")
+    
+//} 
+//else if (age = 15) {
+  //  console.log("you can not drive now")
+//}
+ //else {
+  //  console.log("check you age")
+//}
+
+//alert("hello")
+
+
+
+//let num1 = 5
+//let num2 = 10
+//let num3 = 15
+//function max(){
+  //console.log("the largest numbers is  ${math.max(mun1;num2;num3)}")
+//}
+
+//max(
+
+//function findLargestNum(num1, num2, num3) {
+
+  //if (num1 >= num2 && num1 >= num3) {
+    //return num1
+    
+  //}
+
+//else if (num2 >= num1 && num2 >= num3) {
+  //return num2
+  
+//} else {
+  //return num3 
+  
+//}
+//}
+//console.log(findLargestNum(1,2,3));
+//let user = "Timothy";
+//console.log(`my name is ${user}`);
+
+//let num1 = 8
+//let num2 = 10 
+//console.log( num1 + num2);
+//console.log(num1 * num2);
+
+
+function f1(a) {
+
+  function f2(b){
+    console.log( a + b);
+  }
+  return f2;
+}
+let result = f1(2)
+console.log(result(3));
+
+
