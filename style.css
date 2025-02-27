@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    background-color: #6f9fc9;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1{
+    background-color: blueviolet;
+    height: 2rem;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    background-color: azure;
+    padding: 3rem; 
+    text-align: center;
+    display: flex;
+    margin: 0px;
+    justify-content: space-between;
+}
+.reg{
+    background-color: blanchedalmond;
+}
